@@ -12,3 +12,10 @@ h1 {
     text-shadow: 2px 2px 2px magenta;
     text-transform: uppercase;
 }
+
+/* Attempted to use font awesome icons using pseudo-classes. See https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+/* .info p::before {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f6de"
+} */
