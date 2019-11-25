@@ -13,6 +13,9 @@ footer {
     text-transform: uppercase;
 }
 
+i {
+    font-size: larger;
+}
 /* Attempted to use font awesome icons using pseudo-classes. See https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
 /* .info p::before {
     font-family: "Font Awesome 5 Free"; 
